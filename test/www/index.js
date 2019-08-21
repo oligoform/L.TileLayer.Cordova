@@ -1,8 +1,8 @@
-var LAT  = 44.5667;
-var LNG  = -123.2833;
-var ZOOM = 13;
+var LAT  = 51.5002;
+var LNG  = 11.3310;
+var ZOOM = 10;
 
-var CACHE_ZOOM_MIN = 13, CACHE_ZOOM_MAX = 16;
+var CACHE_ZOOM_MIN = 10, CACHE_ZOOM_MAX = 18;
 
 var MAP, BASE;
 
